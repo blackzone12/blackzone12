@@ -2,7 +2,7 @@
 
   <!-- Your professional photo -->
   <img
-    src="https://shar](https://share.google/hOHx7zyxBSR40izwM"
+    src="https://pin.it/2gTApLlof"
     width="220"
     style="border-radius:50%; border:3px solid #444;"
   />

@@ -7,7 +7,7 @@
     style="border-radius: 8px;"
   />
 
-  # Hi, I'm Black Zone
+  # Hi, you are in  Black Zone
   ### 🔐 Ethical Hacker & Cybersecurity Tool Developer
 
   Building open‑source tools for penetration testing, network analysis, and security automation.

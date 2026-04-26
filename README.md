@@ -2,12 +2,12 @@
 
   <!-- Your professional photo -->
   <img
-    src="https://github.com/YOUR_USERNAME/assets/blob/main/your-professional-pic.jpg?raw=true"
+    src="[[https://github.com/YOUR_USERNAME/assets/blob/main/your-professional-pic.jpg?raw=true](https://shar](https://share.google/hOHx7zyxBSR40izwM)"
     width="220"
     style="border-radius:50%; border:3px solid #444;"
   />
 
-  # Hi, I'm [Your Name]
+  # Hi, I'm Hiranmoy Roy
   ### 🔐 Ethical Hacker & Cybersecurity Tool Developer
 
   Building open‑source tools for penetration testing, network analysis, and security automation.

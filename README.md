@@ -64,8 +64,9 @@ This repo is my **cybersecurity playground** and portfolio for my tooling work.
 ---
 
 ## 🤝 Connect
+- **Linkedin:** https://www.linkedin.com/in/black-zone-626b92405?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **Discord:** https://discordapp.com/users/black_zone12
 - **X:** https://x.com/MasteringD78724
-- **Instagram:** https://www.instagram.com/__ruin01_?igsh=MWNmeHppNHJ4ZG9zeg==
 ---
 
 ## 📜 License

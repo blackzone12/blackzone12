@@ -7,7 +7,7 @@
     style="border-radius: 8px;"
   />
 
-  # Hi, I'm Hiranmoy Roy
+  # Hi, I'm Black Zone
   ### 🔐 Ethical Hacker & Cybersecurity Tool Developer
 
   Building open‑source tools for penetration testing, network analysis, and security automation.
@@ -37,6 +37,8 @@ This repo is my **cybersecurity playground** and portfolio for my tooling work.
 - **Dev & Ops:**
   - Git, GitHub Actions, Docker
   - Linux (Kali, Debian, Ubuntu)
+  - Windows
+  - Android
 - **Crypto & Auth:**
   - JWT, OAuth flows, basic crypto analysis
 

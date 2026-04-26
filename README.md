@@ -2,7 +2,7 @@
 
   <!-- Your professional photo -->
   <img
-    src="https://pin.it/2gTApLlof"
+    src="Wal.jpg"
     width="220"
     style="border-radius:50%; border:3px solid #444;"
   />

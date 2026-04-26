@@ -2,7 +2,7 @@
 
   <!-- Your professional photo -->
   <img
-    src="(https://shar](https://share.google/hOHx7zyxBSR40izwM)"
+    src="https://shar](https://share.google/hOHx7zyxBSR40izwM"
     width="220"
     style="border-radius:50%; border:3px solid #444;"
   />
@@ -62,10 +62,8 @@ This repo is my **cybersecurity playground** and portfolio for my tooling work.
 ---
 
 ## 🤝 Connect
-- **LinkedIn:** [linkedin.com/in/your‑handle](https://linkedin.com/in/YOUR_HANDLE)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **Twitter/X (optional):** [@your_handle](https://twitter.com/YOUR_HANDLE)
-
+- **X:** https://x.com/MasteringD78724
+- **Instagram:** https://www.instagram.com/__ruin01_?igsh=MWNmeHppNHJ4ZG9zeg==
 ---
 
 ## 📜 License

@@ -3,8 +3,8 @@
   <!-- Your professional photo -->
   <img
     src="Wal.jpg"
-    width="220"
-    style="border-radius:50%; border:3px solid #444;"
+    width="100%"
+    style="border-radius: 8px;"
   />
 
   # Hi, I'm Hiranmoy Roy

@@ -10,8 +10,7 @@
   # Hi, welcome to  Black Zone
   ### 🔐 Educational materials and full courses program distributer.
 
-  Building open‑source tools for penetration testing, network analysis, and security automation.
-
+        Weekly 1 prograaming language distributer!!!
 </div>
 
 ---

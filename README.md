@@ -27,7 +27,7 @@
 - Developing a comprehensive C++ course for beginners.
 - Creating interactive Python tutorials for practical learning.
 
-```
+
 ## 🤝 Connect
 - **Linkedin:** https://www.linkedin.com/in/black-zone-626b92405?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - **Discord:** https://discordapp.com/users/black_zone12

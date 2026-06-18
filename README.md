@@ -10,14 +10,12 @@
   # Hi, welcome to  Black Zone
   ### 🔐 Educational materials and full courses program distributer.
 
-        Weekly 1 prograaming language distributer!!!
+   Weekly 1 prograaming language distributer!!!
 </div>
 
 ---
 
-```markdown
-
-I am a passionate developer focusing on C++, Python, HTML, and CSS. Currently creating educational materials and full courses to share knowledge.
+# I am a passionate developer focusing on C++, Python, HTML, and CSS. Currently creating educational materials and full courses to share knowledge.
 
 ### Tech Stack
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)

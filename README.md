@@ -8,7 +8,7 @@
   />
 
   # Hi, welcome to  Black Zone
-  ### 🔐 Ethical Hacker & Cybersecurity Tool Developer
+  ### 🔐 Educational materials and full courses program distributer.
 
   Building open‑source tools for penetration testing, network analysis, and security automation.
 

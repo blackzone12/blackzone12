@@ -107,5 +107,5 @@ Most tools are **MIT / Apache-2.0** (see each repo's `LICENSE` file).
 Use, learn, and improve them — but always respect ethical boundaries.
 
 <div align="center">
-<sub>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — thanks for stopping by!</sub>
+<sub>⭐️ From <a href="https://github.com/blackzone12">HIRANMOY</a> — thanks for stopping by!</sub>
 </div>

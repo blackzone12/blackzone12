@@ -7,33 +7,92 @@
     style="border-radius: 8px;"
   />
 
-  # Hi, welcome to  Black Zone
-  ### 🔐 Educational materials and full courses program distributer.
+  ## Hi there 👋
 
-   Weekly 1 prograaming language distributer!!!
+<!--
+**blackzone12/blackzone12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<div align="center">
+
+  <!-- Your professional photo -->
+  <img
+    src="https://github.com/YOUR_USERNAME/assets/blob/main/your-professional-pic.jpg?raw=true"
+    width="220"
+    style="border-radius:50%; border:3px solid #444;"
+  />
+
+  # Hi, I'm Hiranmoy
+  ### 🔐 Ethical Hacker & Cybersecurity Tool Developer
+
+  Building open‑source tools for penetration testing, network analysis, and security automation.
+
 </div>
 
 ---
 
-# I am a passionate developer focusing on C++, Python, HTML, and CSS. Currently creating educational materials and full courses to share knowledge.
+## 🧠 Who I Am
+I'm a **security engineer** who specializes in developing scripts and tools for vulnerability discovery, recon, and defensive automation. I focus on:
 
-### Tech Stack
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- Writing clean, well‑documented hacking tools (Python / Bash / Go).
+- Automating repetitive security tasks (recon, scanning, logging).
+- Understanding both offensive and defensive sides of security.
 
-### Currently Working On
-- Developing a comprehensive C++ course for beginners.
-- Creating interactive Python tutorials for practical learning.
+This repo is my **cybersecurity playground** and portfolio for my tooling work.
 
+---
+
+## 🛠 Tech Stack & Tools
+- **Languages:**
+  - Python (Scapy, Requests, pwntools, etc.)
+  - Bash / Shell scripting
+  - Go (for performance‑critical tools)
+- **Networking & Pentest:**
+  - Nmap, Wireshark, Burp Suite, Metasploit, sqlmap
+- **Dev & Ops:**
+  - Git, GitHub Actions, Docker
+  - Linux (Kali, Debian, Ubuntu)
+- **Crypto & Auth:**
+  - JWT, OAuth flows, basic crypto analysis
+
+---
+
+## 🧩 What I Build
+- **Recon tools:**  
+  Subdomain enumeration, port scanning wrappers, DNS recon automators.
+- **Payload & exploit helpers:**  
+  Template‑based exploit generators, PoC helpers, encoder/decoder scripts.
+- **Defense‑oriented tools:**  
+  Log parsers, anomaly detectors, basic IDS helpers, misconfig scanners.
+- **Automation scripts:**  
+  Mass‑testing wrappers, report generators, mass‑scan orchestrators.
+
+---
+
+## 📂 How to Use My Repos
+- **Always test in a lab or your own environment.**
+- Read the `README.md` and `USAGE` / `EXAMPLES` section in each repo.
+- Use responsibly and ethically; never attack systems you don’t own or have explicit permission to test.
+
+---
 
 ## 🤝 Connect
-- **Linkedin:** https://www.linkedin.com/in/black-zone-626b92405?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- **Discord:** https://discordapp.com/users/black_zone12
-- **X:** https://x.com/MasteringD78724
+- **LinkedIn:** [linkedin.com/in/your‑handle](https://linkedin.com/in/YOUR_HANDLE)  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Twitter/X (optional):** [@your_handle](https://twitter.com/YOUR_HANDLE)
+
 ---
 
 ## 📜 License
 Most tools are **MIT / Apache‑2.0** (see each repo’s `LICENSE` file).  
-Use, learn, and improve them—but always respect ethical boundaries.
+Use, learn, and improve them—but always respect ethical boundaries..

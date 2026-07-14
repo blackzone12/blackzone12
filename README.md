@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="Wal.jpg" width="150" style="border-radius:50%; border:3px solid #00ff9c;" />
-
 <h1>Hi, I'm Hiranmoy 👋</h1>
 
 <h3>🔐 Ethical Hacker & Cybersecurity Tool Developer</h3>

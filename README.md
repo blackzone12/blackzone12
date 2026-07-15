@@ -81,12 +81,11 @@ This repo is my **cybersecurity playground** and portfolio for my tooling work.
 
 ## 🌱 Currently
 
-- 🔭 Working on: **[Project Name]**
-- 🌱 Learning: **[New Skill / Tech]**
+- 🔭 Working on: **RentalEasy**
+- 🌱 Learning: **Advanced computer networking**
 - 👯 Looking to collaborate on: **open-source security tooling**
-- 🤔 Looking for help with: **[Topic]**
+- 🤔 Looking for help with: **Building OS**
 - 💬 Ask me about: **network security, Python automation, CTFs**
-- ⚡ Fun fact: **[Something fun about you]**
 
 ---
 

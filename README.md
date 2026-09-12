@@ -22,15 +22,14 @@
 
 I'm a **security engineer** who specializes in developing scripts and tools for vulnerability discovery, recon, and defensive automation. I focus on:
 
-- 🛡️ Writing clean, well-documented security tools (Python / Bash / Go)
+- 🛡️ Writing clean, well-documented security tools (Python)
 - ⚙️ Automating repetitive security tasks (recon, scanning, logging)
 - 🔍 Understanding both offensive and defensive sides of security
 - 📖 Publishing write-ups and PoCs for learning purposes
-
 - 🧠 Always expanding my technical toolkit to write cleaner, more efficient code.
 - 🕵️ Developing practical web applications designed to tackle real-world challenges
 
-This repo is my **cybersecurity playground** and portfolio for my tooling work.
+This repo is my **cybersecurity playground/web development** and portfolio for my tooling work.
 
 ---
 

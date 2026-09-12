@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi, I'm Hiranmoy 👋</h1>
 
-<h3>🔐 Ethical Hacker & Cybersecurity Tool Developer</h3>
+<h3>🔐 Computer Science & Engineering | Cybersecurity Enthusiast | Web Developer</h3>
 
 <p>Building open-source tools for penetration testing, network analysis, and security automation.</p>
 
@@ -25,6 +25,9 @@ I'm a **security engineer** who specializes in developing scripts and tools for 
 - ⚙️ Automating repetitive security tasks (recon, scanning, logging)
 - 🔍 Understanding both offensive and defensive sides of security
 - 📖 Publishing write-ups and PoCs for learning purposes
+
+- 🧠 Always expanding my technical toolkit to write cleaner, more efficient code.
+- 🕵️Developing practical web applications designed to tackle real-world challenges
 
 This repo is my **cybersecurity playground** and portfolio for my tooling work.
 

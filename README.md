@@ -92,10 +92,10 @@ This repo is my **cybersecurity playground/web development** and portfolio for m
 ## 🌱 Currently
 
 - 🔭 Working on: **RentalEasy**
-- 🌱 Learning: **Advanced computer networking**
+- 🌱 Learning: **Computer Networking & Operating Systems**
 - 👯 Looking to collaborate on: **open-source security tooling**
 - 🤔 Looking for help with: **Building OS**
-- 💬 Ask me about: **network security, Python automation, CTFs**
+- 💬 Ask me about: **network security, Python automation, CTFs, Web applications**
 
 ---
 

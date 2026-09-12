@@ -6,8 +6,9 @@
 <p>Building open-source tools for penetration testing, network analysis, and security automation.</p>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Penetration+Tester;Python+%26+Go+Developer;Open-Source+Security+Tooling;Always+Hacking+Ethically" alt="Typing SVG" />
-
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering;Cybersecurity+Enthusiast;Web+Application+Developer;Ethical+Hacker" alt="Typing SVG" />
+</div>
 <br/>
 
 <a href="https://linkedin.com/in/hiranmoy-roy-626b92405/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
